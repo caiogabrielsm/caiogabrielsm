@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @caiogabrielsm
-- 👀 I’m interested in Java | C | Flutter
-- 🌱 I’m currently learning Flutter
-- 👨🏻‍💻 I´m student of Biomedical Informatics at UFCSPA / Brazil, RS.
+Como estudante de Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre, dedico-me à bioinformática e ao desenvolvimento de software para aplicações clínicas. Tenho experiência em programação e engenharia de sistemas de software, com foco no uso de pipelines de dados para análise científica.  
+
+No meu papel atual como Analista de Bioinformática na Panther Dx, trabalho com a plataforma Pantherflow Clinical, contribuindo para processos de Variant Calling. Paralelamente, sou bolsista FAPERGS no Laboratório de Imunoterapia (LAIT), onde aplico habilidades em bioinformática para desenvolver e otimizar pipelines analíticos com ferramentas como Python e R.
